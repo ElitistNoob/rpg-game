@@ -8,6 +8,8 @@ body {
     rgba(51, 43, 55, 1) 0%,
     rgba(51, 43, 55, 1) 100%
   );
+  min-height: 100vh;
+  justify-content: center;
   display: flex;
   flex-direction: column;
   align-items: center;
